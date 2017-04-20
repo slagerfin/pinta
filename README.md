@@ -1,0 +1,2 @@
+# pinta
+Static API
